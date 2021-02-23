@@ -12,6 +12,7 @@ import de.Juldre.Bansystem.Utils.UserManager;
 import net.md_5.bungee.BungeeCord;
 import net.md_5.bungee.api.plugin.Plugin;
 
+
 public class main extends Plugin {
 	public static Logger logger;
 	public static Files files;
